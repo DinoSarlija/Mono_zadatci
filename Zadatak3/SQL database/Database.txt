@@ -1,0 +1,94 @@
+--drop table studijski_program;
+--drop table kolegij;
+--drop table vrsta_studija;
+--drop table voditelj_kolegija;
+
+create table vrsta_studija (
+    vrsta_studija_id integer primary key,
+    naziv varchar(50) NOT NULL,
+    trajanje_studija integer NOT NULL
+);
+
+create table voditelj_kolegija (
+	voditelj_kolegija_id integer primary key,
+	ime varchar(20),
+	prezime varchar(20),
+	spol varchar(1)
+);
+
+create table kolegij (
+    kolegij_id varchar(5) primary key,
+	voditelj_kolegija_id integer not null references voditelj_kolegija (voditelj_kolegija_id),
+    naziv varchar(50) NOT NULL,
+    ECTS integer NOT NULL
+);
+
+create table studijski_program (
+    studijksi_program_id integer primary key,
+    vrsta_studija_id integer NOT NULL references vrsta_studija ( vrsta_studija_id ),
+    kolegij_id varchar(5) NOT NULL references kolegij(kolegij_id),
+    godina integer NOT NULL,
+    obvezni integer NOT NULL 
+);
+
+--Insert--
+
+INSERT INTO vrsta_studija VALUES(1,'Preddiplomski studij Matematika i računarstvo', 3);
+INSERT INTO vrsta_studija VALUES(2,'Preddiplomski studij Matematika', 3);
+
+-- Voditelj kolegija
+INSERT INTO voditelj_kolegija (voditelj_kolegija_id, ime, prezime, spol) VALUES (10,'Ivan','Soldo','M');
+INSERT INTO voditelj_kolegija (voditelj_kolegija_id, ime, prezime, spol) VALUES (20,'Slobodan','Jelić','M');
+INSERT INTO voditelj_kolegija (voditelj_kolegija_id, ime, prezime, spol) VALUES (30,'Darija','Marković','Z');
+INSERT INTO voditelj_kolegija (voditelj_kolegija_id, ime, prezime, spol) VALUES (40,'Domagoj','Matijević','M');
+INSERT INTO voditelj_kolegija (voditelj_kolegija_id, ime, prezime, spol) VALUES (50,'Mirela','Jukić Bokun','Z');
+INSERT INTO voditelj_kolegija (voditelj_kolegija_id, ime, prezime, spol) VALUES (60,'Ivan','Matić','M');
+INSERT INTO voditelj_kolegija (voditelj_kolegija_id, ime, prezime, spol) VALUES (70,'Dragan','Jukić','M'); 
+
+-- Kolegij
+INSERT INTO kolegij VALUES ('M000',10,'Diferencijalni račun',8);
+INSERT INTO kolegij VALUES ('M001',20,'Funkcijsko programiranje',6);
+INSERT INTO kolegij VALUES ('M010',30,'Linearna algebra I',6);
+INSERT INTO kolegij VALUES ('M011',10,'Integralni račun',7);
+INSERT INTO kolegij VALUES ('M100',50,'Matematički alati',4);
+INSERT INTO kolegij VALUES ('M101',30,'Kompleksna analiza',6);
+INSERT INTO kolegij VALUES ('M110',40,'Strojno učenje',7);
+INSERT INTO kolegij VALUES ('M111',70,'Realna analiza',7);
+INSERT INTO kolegij VALUES ('I000',60,'Algebra',6);
+
+-- Studijski programi
+INSERT INTO studijski_program VALUES(1,1,'M000',1,1);
+INSERT INTO studijski_program VALUES(2,1,'M001',1,1);
+INSERT INTO studijski_program VALUES(3,1,'M011',1,1);
+INSERT INTO studijski_program VALUES(4,1,'M010',3,1);
+INSERT INTO studijski_program VALUES(5,1,'M110',3,1);
+INSERT INTO studijski_program VALUES(6,1,'M111',3,1);
+INSERT INTO studijski_program VALUES(7,1,'I000',3,1);
+INSERT INTO studijski_program VALUES(8,2,'M011',1,1);
+INSERT INTO studijski_program VALUES(9,2,'M000',1,1);
+INSERT INTO studijski_program VALUES(10,2,'M010',1,1);
+INSERT INTO studijski_program VALUES(11,2,'M100',2,1);
+INSERT INTO studijski_program VALUES(12,2,'M101',3,1);
+INSERT INTO studijski_program VALUES(13,2,'M110',3,1);
+INSERT INTO studijski_program VALUES(14,2,'M111',3,1);
+INSERT INTO studijski_program VALUES(15,2,'I000',3,1);
+
+--Upiti
+
+--select * from studijski_program
+--select * from vrsta_studija
+--select * from kolegij
+--select * from voditelj_kolegija
+
+select ime, prezime
+from voditelj_kolegija
+where spol='M';
+
+select naziv, ECTS
+from kolegij k
+where ECTS=6;
+
+select vk.ime, vk.prezime, k.naziv
+from voditelj_kolegija vk
+join kolegij k 
+on vk.voditelj_kolegija_id = k.voditelj_kolegija_id and k.ECTS = 8
