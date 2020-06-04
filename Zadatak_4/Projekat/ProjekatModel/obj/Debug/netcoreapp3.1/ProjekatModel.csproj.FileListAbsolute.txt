@@ -1,0 +1,13 @@
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\bin\Debug\netcoreapp3.1\ProjekatModel.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\bin\Debug\netcoreapp3.1\ProjekatModel.deps.json
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\bin\Debug\netcoreapp3.1\ProjekatModel.runtimeconfig.json
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\bin\Debug\netcoreapp3.1\ProjekatModel.runtimeconfig.dev.json
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\bin\Debug\netcoreapp3.1\ProjekatModel.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\bin\Debug\netcoreapp3.1\ProjekatModel.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\obj\Debug\netcoreapp3.1\ProjekatModel.csprojAssemblyReference.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\obj\Debug\netcoreapp3.1\ProjekatModel.AssemblyInfoInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\obj\Debug\netcoreapp3.1\ProjekatModel.AssemblyInfo.cs
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\obj\Debug\netcoreapp3.1\ProjekatModel.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\obj\Debug\netcoreapp3.1\ProjekatModel.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\obj\Debug\netcoreapp3.1\ProjekatModel.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak4\Projekat\ProjekatModel\obj\Debug\netcoreapp3.1\ProjekatModel.genruntimeconfig.cache

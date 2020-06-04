@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qn57LygDjgxyBDk6WyJwIRoLf685w2YbG4BLSkhcgs2Y+vMl/j0OoboDqVrWXjpoWLRQRwKBsSoAiWC5ztHTyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\ProjekatDAL\\ProjekatDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
