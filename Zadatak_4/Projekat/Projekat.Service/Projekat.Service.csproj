@@ -5,4 +5,15 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Projekat.Model\Projekat.Model.csproj" />
+    <ProjectReference Include="..\Projekat.Repository\Projekat.Repository.csproj" />
+    <ProjectReference Include="..\Projekat.Service.Common\Projekat.Service.Common.csproj" />
+  </ItemGroup>
+
 </Project>

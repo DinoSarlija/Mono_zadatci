@@ -4,20 +4,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{5F385FEB-2A28-4502-B993-0F2AD62BC2EC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{05B370BB-E974-4A93-8C76-D7C31965B60C} = {05B370BB-E974-4A93-8C76-D7C31965B60C}
+		{74330FFA-61BA-4367-BDB2-A23D7B1D5993} = {74330FFA-61BA-4367-BDB2-A23D7B1D5993}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat.Model", "Projekat.Model\Projekat.Model.csproj", "{74330FFA-61BA-4367-BDB2-A23D7B1D5993}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekat.Model", "Projekat.Model\Projekat.Model.csproj", "{74330FFA-61BA-4367-BDB2-A23D7B1D5993}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat.DAL", "Projekat.DAL\Projekat.DAL.csproj", "{5F54EEEC-4FA8-4AB1-BB3A-ED6F092BE187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekat.DAL", "Projekat.DAL\Projekat.DAL.csproj", "{5F54EEEC-4FA8-4AB1-BB3A-ED6F092BE187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat.Service", "Projekat.Service\Projekat.Service.csproj", "{05B370BB-E974-4A93-8C76-D7C31965B60C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekat.Service", "Projekat.Service\Projekat.Service.csproj", "{05B370BB-E974-4A93-8C76-D7C31965B60C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat.Repository", "Projekat.Repository\Projekat.Repository.csproj", "{39CFA0D3-ED96-4D0B-80D7-386CA1169729}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekat.Repository", "Projekat.Repository\Projekat.Repository.csproj", "{39CFA0D3-ED96-4D0B-80D7-386CA1169729}"
+	ProjectSection(ProjectDependencies) = postProject
+		{74330FFA-61BA-4367-BDB2-A23D7B1D5993} = {74330FFA-61BA-4367-BDB2-A23D7B1D5993}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat.Common", "Projekat.Common\Projekat.Common.csproj", "{79DF8AA7-7371-4BCE-9F54-D4BA19FF321B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekat.Common", "Projekat.Common\Projekat.Common.csproj", "{79DF8AA7-7371-4BCE-9F54-D4BA19FF321B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat.Service.Common", "Projekat.Service.Common\Projekat.Service.Common.csproj", "{E01DAE99-7289-4C48-82F3-CCB94796764E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekat.Service.Common", "Projekat.Service.Common\Projekat.Service.Common.csproj", "{E01DAE99-7289-4C48-82F3-CCB94796764E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat.Repository.Common", "Projekat.Repository.Common\Projekat.Repository.Common.csproj", "{EE99032D-ABD6-4FED-A0C8-78D185F4A95B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekat.Repository.Common", "Projekat.Repository.Common\Projekat.Repository.Common.csproj", "{EE99032D-ABD6-4FED-A0C8-78D185F4A95B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat.Model.Common", "Projekat.Model.Common\Projekat.Model.Common.csproj", "{9AB79840-33CD-42B4-BEBD-13FE37CFF973}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +66,10 @@ Global
 		{EE99032D-ABD6-4FED-A0C8-78D185F4A95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE99032D-ABD6-4FED-A0C8-78D185F4A95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE99032D-ABD6-4FED-A0C8-78D185F4A95B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB79840-33CD-42B4-BEBD-13FE37CFF973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB79840-33CD-42B4-BEBD-13FE37CFF973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB79840-33CD-42B4-BEBD-13FE37CFF973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB79840-33CD-42B4-BEBD-13FE37CFF973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.Repository.Common\\Projekat.Repository.Common.csproj": {}
+    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Repository.Common\\Projekat.Repository.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.Repository.Common\\Projekat.Repository.Common.csproj": {
+    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model.Common\\Projekat.Model.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.Repository.Common\\Projekat.Repository.Common.csproj",
-        "projectName": "Projekat.Repository.Common",
-        "projectPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.Repository.Common\\Projekat.Repository.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model.Common\\Projekat.Model.Common.csproj",
+        "projectName": "Projekat.Model.Common",
+        "projectPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model.Common\\Projekat.Model.Common.csproj",
         "packagesPath": "C:\\Users\\Dino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.Repository.Common\\obj\\",
+        "outputPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dino\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,160 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model\\Projekat.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model\\Projekat.Model.csproj",
+        "projectName": "Projekat.Model",
+        "projectPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model\\Projekat.Model.csproj",
+        "packagesPath": "C:\\Users\\Dino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model.Common\\Projekat.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model.Common\\Projekat.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Repository.Common\\Projekat.Repository.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Repository.Common\\Projekat.Repository.Common.csproj",
+        "projectName": "Projekat.Repository.Common",
+        "projectPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Repository.Common\\Projekat.Repository.Common.csproj",
+        "packagesPath": "C:\\Users\\Dino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Repository.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model\\Projekat.Model.csproj": {
+                "projectPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.Model\\Projekat.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

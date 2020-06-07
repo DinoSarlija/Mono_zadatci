@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.DAL\\Projekat.DAL.csproj": {}
+    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.DAL\\Projekat.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.DAL\\Projekat.DAL.csproj": {
+    "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.DAL\\Projekat.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.DAL\\Projekat.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.DAL\\Projekat.DAL.csproj",
         "projectName": "Projekat.DAL",
-        "projectPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.DAL\\Projekat.DAL.csproj",
+        "projectPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.DAL\\Projekat.DAL.csproj",
         "packagesPath": "C:\\Users\\Dino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak4\\Projekat\\Projekat.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Dino\\Desktop\\Mono_zadatci\\Zadatak_4\\Projekat\\Projekat.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dino\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
