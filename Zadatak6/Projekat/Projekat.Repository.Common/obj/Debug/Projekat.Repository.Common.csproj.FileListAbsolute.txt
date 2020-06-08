@@ -1,0 +1,17 @@
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Repository.Common.exe.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Repository.Common.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Repository.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\AutoMapper.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.Common.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.exe.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\AutoMapper.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\AutoMapper.xml
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.Common.exe.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.csprojAssemblyReference.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.csproj.CopyComplete
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.pdb

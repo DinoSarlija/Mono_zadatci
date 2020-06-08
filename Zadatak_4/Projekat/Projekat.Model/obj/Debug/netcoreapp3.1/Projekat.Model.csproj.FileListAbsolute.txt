@@ -1,3 +1,4 @@
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.Model\obj\Debug\netcoreapp3.1\Projekat.Model.AssemblyInfoInputs.cache
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.Model\obj\Debug\netcoreapp3.1\Projekat.Model.AssemblyInfo.cs
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.Model\obj\Debug\netcoreapp3.1\Projekat.Model.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.Model\obj\Debug\netcoreapp3.1\Projekat.Model.csprojAssemblyReference.cache

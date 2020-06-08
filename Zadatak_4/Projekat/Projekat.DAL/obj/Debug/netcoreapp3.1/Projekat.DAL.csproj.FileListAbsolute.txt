@@ -24,3 +24,4 @@ C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.DAL\obj\Debug\net
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.DAL\obj\Debug\netcoreapp3.1\Projekat.DAL.dll
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.DAL\obj\Debug\netcoreapp3.1\Projekat.DAL.pdb
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.DAL\obj\Debug\netcoreapp3.1\Projekat.DAL.genruntimeconfig.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak_4\Projekat\Projekat.DAL\obj\Debug\netcoreapp3.1\Projekat.DAL.csprojAssemblyReference.cache

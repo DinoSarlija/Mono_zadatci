@@ -15,6 +15,6 @@ namespace Projekat.Model
         public int godina { get; set; }
         public int obavezni { get; set; }
         public VrstaStudija vrsta_studija { get; set; }
-}
+    }
 }
  
