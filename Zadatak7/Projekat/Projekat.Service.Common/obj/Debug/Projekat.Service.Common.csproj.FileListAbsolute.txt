@@ -1,0 +1,17 @@
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Service.Common.exe.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Service.Common.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Service.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\AutoMapper.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.Common.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.exe.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\AutoMapper.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\AutoMapper.xml
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.Common.exe.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.csprojAssemblyReference.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.csproj.CopyComplete
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.pdb
