@@ -18,3 +18,7 @@ C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository\obj\Deb
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository\obj\Debug\Projekat.Repository.csproj.CopyComplete
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository\obj\Debug\Projekat.Repository.exe
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Repository\obj\Debug\Projekat.Repository.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Repository\obj\Debug\Projekat.Repository.csprojAssemblyReference.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Repository\obj\Debug\Projekat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Repository\obj\Debug\Projekat.Repository.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Repository\obj\Debug\Projekat.Repository.pdb

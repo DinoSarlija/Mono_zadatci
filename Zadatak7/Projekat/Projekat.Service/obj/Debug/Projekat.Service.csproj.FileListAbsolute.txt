@@ -24,3 +24,7 @@ C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service\obj\Debug\
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service\obj\Debug\Projekat.Service.csproj.CopyComplete
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service\obj\Debug\Projekat.Service.exe
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Service\obj\Debug\Projekat.Service.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Service\obj\Debug\Projekat.Service.csprojAssemblyReference.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Service\obj\Debug\Projekat.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Service\obj\Debug\Projekat.Service.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Service\obj\Debug\Projekat.Service.pdb

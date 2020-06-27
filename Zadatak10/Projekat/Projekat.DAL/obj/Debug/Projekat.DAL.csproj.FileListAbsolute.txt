@@ -1,0 +1,6 @@
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.DAL\bin\Debug\Projekat.DAL.exe.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.DAL\bin\Debug\Projekat.DAL.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.DAL\bin\Debug\Projekat.DAL.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.DAL\obj\Debug\Projekat.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.DAL\obj\Debug\Projekat.DAL.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.DAL\obj\Debug\Projekat.DAL.pdb

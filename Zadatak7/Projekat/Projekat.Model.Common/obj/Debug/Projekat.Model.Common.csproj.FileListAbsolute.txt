@@ -9,3 +9,7 @@ C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Model.Common\obj\D
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.csproj.CopyComplete
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.exe
 C:\Users\Dino\Desktop\Mono_zadatci\Zadatak6\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.csprojAssemblyReference.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.exe
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak7\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.pdb

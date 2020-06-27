@@ -1,0 +1,17 @@
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.csprojAssemblyReference.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Service.Common.dll.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Service.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Service.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.dll.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Model.Common.dll.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.csproj.CopyComplete
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\obj\Debug\Projekat.Service.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Service.Common\bin\Debug\Projekat.Common.dll.config

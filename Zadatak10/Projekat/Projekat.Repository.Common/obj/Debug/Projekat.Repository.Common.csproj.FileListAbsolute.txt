@@ -1,0 +1,17 @@
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.csprojAssemblyReference.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Repository.Common.dll.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Repository.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Repository.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.dll.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Model.Common.dll.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.csproj.CopyComplete
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\obj\Debug\Projekat.Repository.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Repository.Common\bin\Debug\Projekat.Common.dll.config
