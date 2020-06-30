@@ -1,0 +1,6 @@
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Model.Common\bin\Debug\Projekat.Model.Common.dll.config
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Model.Common\bin\Debug\Projekat.Model.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Model.Common\bin\Debug\Projekat.Model.Common.pdb
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.dll
+C:\Users\Dino\Desktop\Mono_zadatci\Zadatak10\Projekat\Projekat.Model.Common\obj\Debug\Projekat.Model.Common.pdb
