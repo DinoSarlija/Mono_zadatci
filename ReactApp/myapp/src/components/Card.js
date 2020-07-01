@@ -8,7 +8,10 @@ class card extends React.Component {
     render() {
       return(
         <div classsName="container-fluid d-flex justify-content-center">
+            
+            
             <div className="row">
+
                 <div className="col-md-4">
                     <Card style={{ width: '18rem' }}>
                         <Card.Body>
@@ -46,6 +49,7 @@ class card extends React.Component {
                     </Card>
                 </div>
             </div>
+            
         </div>
       );
     }
